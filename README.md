@@ -1,5 +1,4 @@
-Data Sourcing
-Data was obtained from Kaggle
+Data Sourcing: Data was obtained from Kaggle
 
 Overview
 This analysis provides an in-depth look at social media usage across various demographics, professions, and interests for the year 2023. It aims to uncover trends and patterns that can inform future marketing strategies, product development, and user engagement tactics.
